@@ -5,7 +5,7 @@ This is a simple python script to download files from google drive. It can be us
 
 ## Requirements
 You must have python installed on your computer.
-To install the module, run the following command
+To install the module, run the following command:
 ```
 pip install gdown
 ```
