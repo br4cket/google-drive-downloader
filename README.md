@@ -1,7 +1,7 @@
 # Google Drive Downloader
 This is a simple python script to download files from google drive. It works on any platform as long has it has,
 - Python
-- Libraries mentioned
+- Python Modules ([`gdown`](https://pypi.org/project/gdown/), [`re`](https://docs.python.org/3/library/re.html))
 
 ## Requirements
 You must have python installed on your computer.
